@@ -25,12 +25,7 @@ wie du sprichst, statt wie jeder zweite AI Text in deiner Nische.
 
 Das Profil funktioniert in Claude im Browser, in der Desktop App und in Claude Code.
 
-## Download
-
-Den Skill bekommst du kostenlos auf **[wekonvert.io/claudeskills/sprachprofil](https://wekonvert.io/claudeskills/sprachprofil)**.
-Dort steht auch, wie du ihn in Claude hochlädst. In Claude Code legst du den Ordner nach `~/.claude/skills/`.
-
 ## Von wem
 
-Gebaut von [jonas.fnl](https://www.instagram.com/jonas.fnl/). Ich baue Content Systeme mit Claude für Coaches und Creator, die selbst
-in die Kamera sprechen. Mehr dazu auf [wekonvert.io](https://wekonvert.io).
+Gebaut von [jonas.fnl](https://www.instagram.com/jonas.fnl/). Ich helfe Experten, auf Social Media zu wachsen und zu verkaufen.
+Mehr dazu auf [wekonvert.io](https://wekonvert.io).
