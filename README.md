@@ -27,5 +27,5 @@ Das Profil funktioniert in Claude im Browser, in der Desktop App und in Claude C
 
 ## Von wem
 
-Gebaut von [jonas.fnl](https://www.instagram.com/jonas.fnl/). Ich helfe Unternehmern, auf Social Media zu wachsen und zu verkaufen.
+Gebaut von [jonas.socials](https://www.instagram.com/jonas.socials/). Ich zeige dir, wie du mit AI Systemen skalierbar authentischen Content produzierst.
 Mehr dazu auf [wekonvert.io](https://wekonvert.io).
