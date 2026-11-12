@@ -6,11 +6,13 @@ wie du sprichst, statt wie jeder zweite AI Text in deiner Nische.
 ## So arbeitet der Skill
 
 1. **Material sammeln.** Claude bittet dich um Sprachmemos, Chats, Transkripte, Mails und Captions, die du selbst geschrieben hast.
-   Am besten 2.000 bis 5.000 Wörter. Private Inhalte kommen nicht ins Profil, nur deine Sprachmuster.
+   Am besten 3.000 Wörter. Fehlt dir Material, beantwortest du ein paar Fragen per Sprache. Private Inhalte kommen nicht ins Profil, nur deine Sprachmuster.
 2. **Profil bauen.** Aus dem Material entsteht die Datei `sprachprofil.md`, mit Belegen statt Vermutungen. Claude zeigt dir die
    wichtigsten Punkte, und deine Korrektur geht sofort ins Profil.
-3. **Mit dem Profil schreiben.** Vor jedem Text in deinem Namen liest Claude das Profil, schreibt mit deinen Wörtern und prüft gegen
-   deine Blocklist. Sagst du „so würde ich das nie sagen“, landet die Regel mit Datum im Profil.
+3. **Probetexte bewerten.** Claude schreibt drei Texte zu deinem Thema, du gibst Noten, bis jeder nach dir klingt. Dann speichert
+   Claude dein Profil direkt im Skill.
+4. **Mit jeder Korrektur genauer.** Gefällt dir ein Text nicht, schick Claude deine Fassung und schreib „Übernimm das in mein
+   Sprachprofil“. Claude schreibt die Regeln in deinen Skill.
 
 ## Was in deinem Sprachprofil steht
 
@@ -24,6 +26,8 @@ wie du sprichst, statt wie jeder zweite AI Text in deiner Nische.
 - deine Korrekturen, mit Datum
 
 Das Profil funktioniert in Claude im Browser, in der Desktop App und in Claude Code.
+
+Den Skill und die Anleitung bekommst du kostenlos auf [wekonvert.io/sprachprofil](https://wekonvert.io/sprachprofil).
 
 ## Von wem
 
